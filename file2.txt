@@ -2,7 +2,4 @@ red
 blue
 green
 yellow
-<<<<<<< HEAD
 pink
-=======
->>>>>>> 2bd72c0fc10f38554313c5ab46024b0c8c22e460
